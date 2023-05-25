@@ -35,10 +35,6 @@ Contributing
 
 Contributions are always welcome! If you have any suggestions or find any issues with the project, feel free to create a pull request or open an issue.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Thank you for checking out my Spotify clone project!
 
 * Click on the link to view the project :- https://byomkesh03.github.io/Spotify-Clone/
