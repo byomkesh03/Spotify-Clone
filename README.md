@@ -12,7 +12,6 @@ Table of Contents
 * Demo
 * Getting Started
 * Contributing
-* License
 
 Features
 
