@@ -13,7 +13,7 @@ This is a Spotify clone created using HTML, CSS, and JavaScript. It allows users
 * Getting Started
 * Contributing
 
-Features
+## Features
 
 * Play, pause, skip to the next or previous track, and control the volume
 * Responsive design
