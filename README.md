@@ -30,7 +30,7 @@ To get started with this project, follow these steps:
 2. Open the "index.html" file in your web browser.
 3. Start playing with the controls to enjoy the music!
 
-Contributing
+## Contributing
 
 Contributions are always welcome! If you have any suggestions or find any issues with the project, feel free to create a pull request or open an issue.
 
