@@ -42,5 +42,4 @@ Thank you for checking out my Spotify clone project!
 - This analog clock was inspired by traditional analog clocks.
 
 
-
 * Click on the link to view the project :- https://byomkesh03.github.io/Spotify-Clone/
