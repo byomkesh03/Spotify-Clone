@@ -39,7 +39,7 @@ Thank you for checking out my Spotify clone project!
 
 ## Acknowledgments
 
-- This Spotify-Clone Website was inspired by official Spotify website.
+- This Spotify-Clone website was inspired by official Spotify website.
 
 
 * Click on the link to view the project :- https://byomkesh03.github.io/Spotify-Clone/
