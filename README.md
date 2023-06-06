@@ -6,6 +6,8 @@ Spotify Clone Using Pure HTML, CSS &amp; JavaScript
 
 This is a Spotify clone created using HTML, CSS, and JavaScript. It allows users to play, pause, skip to the next or previous track, and control the volume.
 
+![Spotify Clone](./screenshots/Spotify-Clone.png)
+
 ## Table of Contents
 
 * Features
