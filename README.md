@@ -37,4 +37,5 @@ Contributions are always welcome! If you have any suggestions or find any issues
 Thank you for checking out my Spotify clone project!
 
 
+
 * Click on the link to view the project :- https://byomkesh03.github.io/Spotify-Clone/
