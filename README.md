@@ -22,7 +22,7 @@ This is a Spotify clone created using HTML, CSS, and JavaScript. It allows users
 
 ## Demo
 
-A live demo of the project can be found [here](https://byomkesh03.github.io/Spotify-Clone/).
+A live demo of the project can be found [here](https://byomkesh03.github.io/Spotify-Clone/). 
 
 ## Getting Started
 
