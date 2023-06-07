@@ -29,7 +29,7 @@ A live demo of the project can be found [here](https://byomkesh03.github.io/Spot
 To get started with this project, follow these steps:
 
 1. Clone this repository onto your local machine.
-2. Open the "index.html" file in your web browser.
+2. Open the  `index.html` file in your web browser.
 3. Start playing with the controls to enjoy the music!
 
 ## Contributing
